@@ -1,0 +1,4 @@
+.todos-item > div  {
+    display:flex;
+    align-items:center;
+}

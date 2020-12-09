@@ -1,0 +1,5 @@
+{
+    "DB_NAME":"todosdb",
+    "DB_PASSWORD":"unibg11",
+    "DB_USER":"postgres"
+}
